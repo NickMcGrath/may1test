@@ -27,3 +27,10 @@ mimic
 	git add*
 	git commit -m"add wilson.txt"
 	git status
+
+how do you combine your branch with master
+
+option 1:
+- push your branch to master
+	git push <OG-url> wilson_featureZ
+
