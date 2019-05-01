@@ -1,0 +1,29 @@
+- workflow lab doc as reference
+- command line window
+
+version control
+- push and pull into master
+- work in a branch
+- atlassian workflow
+
+feature brance
+- 1 master
+- everyone creates a branch FROM master
+- do your stuff in branch
+- combine your branch with master
+
+mimic
+- one person create a repo with readme
+- invite collabs
+- eveyrone clone the repo, cd into it
+- eveyone make your branch
+	- "git branch"
+	- "git branch wilson_featureZ"
+	- "git branch"
+	- "git checkout wilson_featureZ"
+	- "git branch"
+- everyone "do some work"
+	echo hi from wilson > wilson.txt
+	git add*
+	git commit -m"add wilson.txt"
+	git status
